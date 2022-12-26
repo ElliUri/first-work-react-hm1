@@ -1,0 +1,11 @@
+.div-text {
+    font-size: 25px;
+    color: coral;
+    font-family: Roboto;
+}
+
+.section-div {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
